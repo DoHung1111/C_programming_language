@@ -3,9 +3,9 @@
 1. [Câu 9](https://codepen.io)
 2. [câu 10](https://codepen.io/)
 ## Bài tập thực hành
-1. [kiểm tra và thông báo số âm, số dương](jdoodle.com/a/5CGT)
-2. [kiểm tra và thông báo số chẵn, số lẻ](jdoodle.com/a/5CGW)
-3. [Nhập điểm và thông báo thành tích học sinh](jdoodle.com/a/5Ay4)
+1. [kiểm tra và thông báo số âm, số dương](https://www.jdoodle.com/embed/v0/5CGT)
+2. [kiểm tra và thông báo số chẵn, số lẻ](https://www.jdoodle.com/embed/v0/5CGW)
+3. [Nhập điểm và thông báo thành tích học sinh](https://www.jdoodle.com/embed/v0/5CGW)
 4. [Nhập ký tự +, -](jdoodle.com/a/5BuV)
 5. [Tìm số lớn nhất và số nhỏ nhất](jdoodle.com/a/5BPA)
 6. [Kiểm tra hai số, cùng dấu hay khác dấu](jdoodle.com/a/5Caa)
