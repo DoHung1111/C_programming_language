@@ -13,7 +13,7 @@ Bài tập:
 Bài tập:
 1. [kiểm tra và thông báo số âm, số dương](https://www.jdoodle.com/embed/v0/5CGT)
 2. [kiểm tra và thông báo số chẵn, số lẻ](https://www.jdoodle.com/embed/v0/5CGW)
-3. [Nhập điểm và thông báo thành tích học sinh](https://www.jdoodle.com/embed/v0/5CGW)
+3. [Nhập điểm và thông báo thành tích học sinh](https://www.jdoodle.com/embed/v0/5Ay4)
 4. [Nhập ký tự +, -](https://www.jdoodle.com/embed/v0/5BuV)
  
 ## Bài tập lập trình:
