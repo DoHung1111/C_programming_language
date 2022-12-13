@@ -17,7 +17,7 @@ Bài tập:
 4. [Nhập ký tự +, -](https://www.jdoodle.com/embed/v0/5BuV)
  
 ## Bài tập lập trình:
-5. [Tìm số lớn nhất và số nhỏ nhất](https://www.jdoodle.com/embed/v0/5BPA)
-6. [Kiểm tra hai số, cùng dấu hay khác dấu](https://www.jdoodle.com/embed/v0/5Caa)
-7. [Giải phương trình bậc nhất ax + b = 0](https://www.jdoodle.com/embed/v0/5CHc)
-8. [Kiểm tháng thuộc quí mấy trong năm](https://www.jdoodle.com/embed/v0/5CpT)
+1. [Tìm số lớn nhất và số nhỏ nhất](https://www.jdoodle.com/embed/v0/5BPA)
+2. [Kiểm tra hai số, cùng dấu hay khác dấu](https://www.jdoodle.com/embed/v0/5Caa)
+3. [Giải phương trình bậc nhất ax + b = 0](https://www.jdoodle.com/embed/v0/5CHc)
+4. [Kiểm tháng thuộc quí mấy trong năm](https://www.jdoodle.com/embed/v0/5CpT)
