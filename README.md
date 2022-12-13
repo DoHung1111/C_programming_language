@@ -1,6 +1,6 @@
 # Ngôn ngữ lập trình C
 
-## -Thực hành:
+## - Thực hành:
 
 ## Bài 2:
 1. [Bài học C đầu tiên](https://www.jdoodle.com/embed/v0/5D87)
