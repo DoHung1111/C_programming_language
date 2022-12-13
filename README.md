@@ -1,7 +1,9 @@
 # Ngôn ngữ lập trình C
 
-## Thực hành:
+## -Thực hành:
 
+## Bài 2:
+1. [Bài học C đầu tiên](https://www.jdoodle.com/c-online-compiler/)
 ## Bài 3: các câu lệnh rẽ nhánh (if else, switch case))  
 1. [kiểm tra và thông báo số âm, số dương](https://www.jdoodle.com/embed/v0/5CGT)
 2. [kiểm tra và thông báo số chẵn, số lẻ](https://www.jdoodle.com/embed/v0/5CGW)
