@@ -15,6 +15,7 @@ Bài tập:
 2. [kiểm tra và thông báo số chẵn, số lẻ](https://www.jdoodle.com/embed/v0/5CGW)
 3. [Nhập điểm và thông báo thành tích học sinh](https://www.jdoodle.com/embed/v0/5Ay4)
 4. [Nhập ký tự +, -](https://www.jdoodle.com/embed/v0/5BuV)
+5. [Tính tổng tiền 10 cuốn sổ tay, hội viên](https://www.jdoodle.com/embed/v0/5yID)
  
 ## Bài tập lập trình:
 1. [Tìm số lớn nhất và số nhỏ nhất](https://www.jdoodle.com/embed/v0/5BPA)
