@@ -1,6 +1,6 @@
 # Ngôn ngữ lập trình C
 
-## *Thực hành:
+
 
 ## Bài 2: Các câu lệnh đơn
 Bài tập:
