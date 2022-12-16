@@ -1,7 +1,5 @@
 # Ngôn ngữ lập trình C
 
-
-
 ## Bài 2: Các câu lệnh đơn
 Bài tập:
 1. [Bài học C đầu tiên](https://www.jdoodle.com/embed/v0/5D87)
