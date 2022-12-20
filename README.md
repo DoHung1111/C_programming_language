@@ -2,6 +2,7 @@
 
 ## Bài 2: Các câu lệnh đơn
 Lý thuyết:
+
 Bài tập:
 1. [Bài học C đầu tiên](https://www.jdoodle.com/embed/v0/5D87)
 2. [Gán biến a giá trị 12.3456](https://www.jdoodle.com/embed/v0/5D8c)
@@ -10,6 +11,7 @@ Bài tập:
  
 ## Bài 3: Các câu lệnh rẽ nhánh (if else, switch case)
 Lý thuyết:
+
 Bài tập:
 1. [kiểm tra và thông báo số âm, số dương](https://www.jdoodle.com/embed/v0/5CGT)
 2. [kiểm tra và thông báo số chẵn, số lẻ](https://www.jdoodle.com/embed/v0/5CGW)
