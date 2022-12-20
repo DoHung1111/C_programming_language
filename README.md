@@ -20,7 +20,7 @@ Bài tập:
 5. [Tính tổng tiền 10 cuốn sổ tay, hội viên](https://www.jdoodle.com/embed/v0/5yID)
  
 ## Bài tập lập trình:
-A) Cấu trúc điều kiện (if, switch):
+### A) Cấu trúc điều kiện (if, switch):
 1. [Tìm số lớn nhất và số nhỏ nhất](https://www.jdoodle.com/embed/v0/5BPA)
 2. [Kiểm tra hai số, cùng dấu hay khác dấu](https://www.jdoodle.com/embed/v0/5Caa)
 3. [Giải phương trình bậc nhất ax + b = 0](https://www.jdoodle.com/embed/v0/5CHc)
