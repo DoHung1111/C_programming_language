@@ -25,3 +25,5 @@
 2. [Kiểm tra hai số, cùng dấu hay khác dấu](https://www.jdoodle.com/embed/v0/5Caa)
 3. [Giải phương trình bậc nhất ax + b = 0](https://www.jdoodle.com/embed/v0/5CHc)
 4. [Kiểm tháng thuộc quí mấy trong năm](https://www.jdoodle.com/embed/v0/5CpT)
+### B) Cấu trúc lặp (for, while, do/while):
+2. [Tìm số nguyên dương nhỏ nhất sao cho S = 1 + 2 +...+ n > 10000](https://www.jdoodle.com/embed/v0/5FUA)
