@@ -33,4 +33,5 @@
 ### 20/12/22
 1. [bài: cho số nguyên n >= 1](https://www.jdoodle.com/embed/v0/5F2H)
 2. [bài: cho 2 số nguyên dương a,b với a <= b](https://www.jdoodle.com/embed/v0/5F3k)
-
+### 26/12/22
+1. [bài: Tính tổng ký số của (n) với 10000 <= n <= 99999](https://www.jdoodle.com/embed/v0/5HFd)
