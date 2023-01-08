@@ -30,3 +30,7 @@
 2. [Tìm số nguyên dương nhỏ nhất sao cho S = 1 + 2 +...+ n > 10000](https://www.jdoodle.com/embed/v0/5FUA)
 3. [Hiển thị các kí tự in hoa từ A đến Z](https://www.jdoodle.com/embed/v0/5G1S)
 ## Bài tập tại lớp:
+### 20/12/22
+1. [bài: cho số nguyên n >= 1](https://www.jdoodle.com/embed/v0/5F2H)
+2. [bài: cho 2 số nguyên dương a,b với a <= b](https://www.jdoodle.com/embed/v0/5F3k)
+
