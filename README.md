@@ -29,3 +29,4 @@
 1. [Viết chương trình tính tổng S = 1^3 + 2^3 + 3^3 +...+ N^3](https://www.jdoodle.com/embed/v0/5Hi8)
 2. [Tìm số nguyên dương nhỏ nhất sao cho S = 1 + 2 +...+ n > 10000](https://www.jdoodle.com/embed/v0/5FUA)
 3. [Hiển thị các kí tự in hoa từ A đến Z](https://www.jdoodle.com/embed/v0/5G1S)
+## Bài tập tại lớp:
