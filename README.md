@@ -37,7 +37,7 @@
 3. [Hiển thị các kí tự in hoa từ A đến Z](https://www.jdoodle.com/embed/v0/5G1S)
 ## Bài tập tại lớp:
 ### 20/12/22
-1. [Bài: cho số nguyên n >= 1](https://www.jdoodle.com/embed/v0/5F2H)
+1. [Bài: cho số nguyên n >= 1, hiển thị ra màn hình từ tiếng Anh với 1 <= n <= 9](https://www.jdoodle.com/embed/v0/5F2H)
 2. [Bài: cho 2 số nguyên dương a,b với a <= b. n thuộc [a,b] với 1 <= n <= 9](https://www.jdoodle.com/embed/v0/5F3k)
 ### 26/12/22
 1. [Bài: tính tổng ký số của (n) với 10000 <= n <= 99999](https://www.jdoodle.com/embed/v0/5HFd)
