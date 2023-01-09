@@ -19,6 +19,12 @@
 4. [Nhập ký tự +, -](https://www.jdoodle.com/embed/v0/5BuV)
 5. [Tính tổng tiền 10 cuốn sổ tay, hội viên](https://www.jdoodle.com/embed/v0/5yID)
  
+## Bài 4: Các câu lệnh lặp (for, while, do/while)
+### Lý thuyết:
+ 
+### Bài tập:
+1. [Tính tổng S = 1 + 1/2 + 1/3 +...+ 1/n](https://www.jdoodle.com/embed/v0/5HM1)
+ 
 ## Bài tập lập trình:
 ### A) Cấu trúc điều kiện (if, switch):
 1. [Tìm số lớn nhất và số nhỏ nhất](https://www.jdoodle.com/embed/v0/5BPA)
