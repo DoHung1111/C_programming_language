@@ -24,6 +24,7 @@
  
 ### Bài tập:
 1. [Tính tổng S = 1 + 1/2 + 1/3 +...+ 1/n](https://www.jdoodle.com/embed/v0/5HM1)
+2. [Tìm số nguyên dương n nhỏ nhất sao cho S = 1 + 2 + 3 +...+ n > 10000](https://www.jdoodle.com/a/5I08)
  
 ## Bài tập lập trình:
 ### A) Cấu trúc điều kiện (if, switch):
