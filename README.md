@@ -34,7 +34,7 @@
 4. [Kiểm tháng thuộc quí mấy trong năm](https://www.jdoodle.com/embed/v0/5CpT)
 ### B) Cấu trúc lặp (for, while, do/while):
 1. [Viết chương trình tính tổng S = 1^3 + 2^3 + 3^3 +...+ N^3](https://www.jdoodle.com/embed/v0/5Hi8)
-2. [Tìm số nguyên dương nhỏ nhất sao cho S = 1 + 2 +...+ n > 10000](https://www.jdoodle.com/embed/v0/5FUA)
+2. [Tìm số nguyên dương n nhỏ nhất sao cho S = 1 + 2 + 3 +...+ n > 10000](https://www.jdoodle.com/a/5I08)
 3. [Hiển thị các kí tự in hoa từ A đến Z](https://www.jdoodle.com/embed/v0/5G1S)
 ## Bài tập tại lớp:
 ### 20/12/22
