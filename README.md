@@ -23,23 +23,23 @@
 ### Lý thuyết:
  
 ### Bài tập:
-1. [Tính tổng S = 1 + 1/2 + 1/3 +...+ 1/n](https://www.jdoodle.com/embed/v0/5HM1)
+1. [Tính tổng S = 1 + 1/2 + 1/3 +...+ 1/n](https://www.jdoodle.com/a/5HM1)
 2. [Tìm số nguyên dương n nhỏ nhất sao cho S = 1 + 2 + 3 +...+ n > 10000](https://www.jdoodle.com/a/5I08)
 3. [Nhập số nguyên dương N bất kỳ và xuất ra màn hình số nguyên dương m lớn nhất sao cho 1 + 2 +...+ m > N.](https://www.jdoodle.com/a/5IbB)
  
 ## Bài tập lập trình:
 ### A) Cấu trúc điều kiện (if, switch):
-1. [Tìm số lớn nhất và số nhỏ nhất](https://www.jdoodle.com/embed/v0/5BPA)
-2. [Kiểm tra hai số, cùng dấu hay khác dấu](https://www.jdoodle.com/embed/v0/5Caa)
-3. [Giải phương trình bậc nhất ax + b = 0](https://www.jdoodle.com/embed/v0/5CHc)
-4. [Kiểm tháng thuộc quí mấy trong năm](https://www.jdoodle.com/embed/v0/5CpT)
+1. [Tìm số lớn nhất và số nhỏ nhất](https://www.jdoodle.com/a/5BPA)
+2. [Kiểm tra hai số, cùng dấu hay khác dấu](https://www.jdoodle.com/a/5Caa)
+3. [Giải phương trình bậc nhất ax + b = 0](https://www.jdoodle.com/a/5CHc)
+4. [Kiểm tháng thuộc quí mấy trong năm](https://www.jdoodle.com/a/5CpT)
 ### B) Cấu trúc lặp (for, while, do/while):
-1. [Viết chương trình tính tổng S = 1^3 + 2^3 + 3^3 +...+ N^3](https://www.jdoodle.com/embed/v0/5Hi8)
+1. [Viết chương trình tính tổng S = 1^3 + 2^3 + 3^3 +...+ N^3](https://www.jdoodle.com/a/5Hi8)
 2. [Tìm số nguyên dương n nhỏ nhất sao cho S = 1 + 2 + 3 +...+ n > 10000](https://www.jdoodle.com/a/5I08)
-3. [Hiển thị các kí tự in hoa từ A đến Z](https://www.jdoodle.com/embed/v0/5G1S)
+3. [Hiển thị các kí tự in hoa từ A đến Z](https://www.jdoodle.com/a/5G1S)
 ## Bài tập tại lớp:
 ### 20/12/22
-1. [Bài: cho số nguyên n >= 1, hiển thị ra màn hình từ tiếng Anh với 1 <= n <= 9](https://www.jdoodle.com/embed/v0/5F2H)
-2. [Bài: cho 2 số nguyên dương a,b với a <= b. n thuộc [a,b] với 1 <= n <= 9](https://www.jdoodle.com/embed/v0/5F3k)
+1. [Bài: cho số nguyên n >= 1, hiển thị ra màn hình từ tiếng Anh với 1 <= n <= 9](https://www.jdoodle.com/a/5F2H)
+2. [Bài: cho 2 số nguyên dương a,b với a <= b. n thuộc [a,b] với 1 <= n <= 9](https://www.jdoodle.com/a/5F3k)
 ### 26/12/22
-1. [Bài: tính tổng ký số của (n) với 10000 <= n <= 99999](https://www.jdoodle.com/embed/v0/5HFd)
+1. [Bài: tính tổng ký số của (n) với 10000 <= n <= 99999](https://www.jdoodle.com/a/5HFd)
