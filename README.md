@@ -4,20 +4,20 @@
 ### Lý thuyết:
 
 ### Bài tập:
-1. [Bài học C đầu tiên](https://www.jdoodle.com/embed/v0/5D87)
-2. [Gán biến a giá trị 12.3456](https://www.jdoodle.com/embed/v0/5D8c)
-3. [Nhập vào 12abc](https://www.jdoodle.com/embed/v0/5D8o)
-4. [Tổng giá trị của hai biến a và b](https://www.jdoodle.com/embed/v0/5u6Z)
+1. [Bài học C đầu tiên](https://www.jdoodle.com/a/5D87)
+2. [Gán biến a giá trị 12.3456](https://www.jdoodle.com/a/5u6S)
+3. [Nhập vào 12abc](https://www.jdoodle.com/a/5u7f)
+4. [Tổng giá trị của hai biến a và b](https://www.jdoodle.com/a/5u6Z)
  
 ## Bài 3: Các câu lệnh rẽ nhánh (if else, switch case)
 ### Lý thuyết:
 
 ### Bài tập:
-1. [kiểm tra và thông báo số âm, số dương](https://www.jdoodle.com/embed/v0/5CGT)
-2. [kiểm tra và thông báo số chẵn, số lẻ](https://www.jdoodle.com/embed/v0/5CGW)
-3. [Nhập điểm và thông báo thành tích học sinh](https://www.jdoodle.com/embed/v0/5Ay4)
-4. [Nhập ký tự +, -](https://www.jdoodle.com/embed/v0/5BuV)
-5. [Tính tổng tiền 10 cuốn sổ tay, hội viên](https://www.jdoodle.com/embed/v0/5yID)
+1. [kiểm tra và thông báo số âm, số dương](https://www.jdoodle.com/a/5CGT)
+2. [kiểm tra và thông báo số chẵn, số lẻ](https://www.jdoodle.com/a/5CGW)
+3. [Nhập điểm và thông báo thành tích học sinh](https://www.jdoodle.com/a/5Ay4)
+4. [Nhập ký tự +, -](https://www.jdoodle.com/a/5BuV)
+5. [Tính tổng tiền 10 cuốn sổ tay, hội viên](https://www.jdoodle.com/a/5yID)
  
 ## Bài 4: Các câu lệnh lặp (for, while, do/while)
 ### Lý thuyết:
