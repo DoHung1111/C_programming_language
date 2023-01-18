@@ -40,6 +40,7 @@
 3. [Hiển thị các kí tự in hoa từ A đến Z](https://www.jdoodle.com/a/5G1S)
 4. [Viết chương trình tính tổng các giá trị lẻ nguyên dương nhỏ hơn N](https://www.jdoodle.com/a/5ILV)
 6. [In tất cả các số nguyên dương lẻ nhỏ hơn 100](https://www.jdoodle.com/a/5J5d) 
+9. [Viết chương trình in ra tất cả các số lẻ nhỏ hơn 100 trừ các số 5, 7, 93](https://www.jdoodle.com/a/5Iw7)
 ## Bài tập tại lớp:
 ### 20/12/22
 1. [Bài: cho số nguyên n >= 1, hiển thị ra màn hình từ tiếng Anh với 1 <= n <= 9](https://www.jdoodle.com/a/5IuO)
