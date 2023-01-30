@@ -41,6 +41,7 @@
 4. [Viết chương trình tính tổng các giá trị lẻ nguyên dương nhỏ hơn N](https://www.jdoodle.com/a/5ILV)
 5. [Viết chương trình tìm số nguyên dương m lớn nhất sao cho S = 1 + 2 + 3 +…+ m < N](https://www.jdoodle.com/a/5M71)
 6. [In tất cả các số nguyên dương lẻ nhỏ hơn 100](https://www.jdoodle.com/a/5J5d) 
+7. [Tìm ước số chung lớn nhất của hai số nguyên dương a, b.](https://www.jdoodle.com/a/5O8n)
 9. [Viết chương trình in ra tất cả các số lẻ nhỏ hơn 100 trừ các số 5, 7, 93](https://www.jdoodle.com/a/5Iw7)
 ## Bài tập tại lớp:
 ### 20/12/22
