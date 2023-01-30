@@ -39,7 +39,7 @@
 2. [Tìm số nguyên dương n nhỏ nhất sao cho S = 1 + 2 + 3 +...+ n > 10000](https://www.jdoodle.com/a/5I08)
 3. [Hiển thị các kí tự in hoa từ A đến Z](https://www.jdoodle.com/a/5G1S)
 4. [Viết chương trình tính tổng các giá trị lẻ nguyên dương nhỏ hơn N](https://www.jdoodle.com/a/5ILV)
-5. [Nhập số nguyên dương N bất kỳ và in ra màn hình số nguyên dương m lớn nhất sao cho 1 + 2 +...+ m < N.](https://www.jdoodle.com/a/5M71)
+5. [Viết chương trình tìm số nguyên dương m lớn nhất sao cho S = 1 + 2 + 3 +…+ m < N](https://www.jdoodle.com/a/5M71)
 6. [In tất cả các số nguyên dương lẻ nhỏ hơn 100](https://www.jdoodle.com/a/5J5d) 
 9. [Viết chương trình in ra tất cả các số lẻ nhỏ hơn 100 trừ các số 5, 7, 93](https://www.jdoodle.com/a/5Iw7)
 ## Bài tập tại lớp:
