@@ -1,7 +1,6 @@
 # Ngôn ngữ lập trình C
 
-## Bài 2: Các câu lệnh đơn
-### Lý thuyết:
+## Bài 2: Các câu lệnh đơn(https://hoctructuyencntt.github.io/NNLT/Bai02.html)
 
 ### Bài tập:
 1. [Bài học C đầu tiên](https://www.jdoodle.com/a/5D87)
@@ -10,7 +9,6 @@
 4. [Tổng giá trị của hai biến a và b](https://www.jdoodle.com/a/5u6Z)
  
 ## Bài 3: Các câu lệnh rẽ nhánh (if else, switch case)
-### Lý thuyết:
 
 ### Bài tập:
 1. [kiểm tra và thông báo số âm, số dương](https://www.jdoodle.com/a/5Iuj)
@@ -20,8 +18,7 @@
 5. [Tính tổng tiền 10 cuốn sổ tay, hội viên](https://www.jdoodle.com/a/5yID)
  
 ## Bài 4: Các câu lệnh lặp (for, while, do/while)
-### Lý thuyết:
- 
+
 ### Bài tập:
 1. [Tính tổng S = 1 + 1/2 + 1/3 +...+ 1/n](https://www.jdoodle.com/a/5HM1)
 2. [Tìm số nguyên dương n nhỏ nhất sao cho S = 1 + 2 + 3 +...+ n > 10000](https://www.jdoodle.com/a/5I08)
