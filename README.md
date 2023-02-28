@@ -1,6 +1,6 @@
 # Ngôn ngữ lập trình C
 
-[## Bài 2: Các câu lệnh đơn](https://hoctructuyencntt.github.io/NNLT/Bai02.html)
+## [Bài 2: Các câu lệnh đơn](https://hoctructuyencntt.github.io/NNLT/Bai02.html)
 
 ### Bài tập:
 1. [Bài học C đầu tiên](https://www.jdoodle.com/a/5D87)
