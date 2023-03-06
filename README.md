@@ -26,7 +26,7 @@
  
  
  
-## Bài tập lập trình:
+## [Bài tập lập trình:](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
 ### A) Cấu trúc điều kiện (if, switch):
 1. [Tìm số lớn nhất và số nhỏ nhất](https://www.jdoodle.com/a/5BPA)
 2. [Kiểm tra hai số thực (a, b), cùng dấu hay khác dấu](https://www.jdoodle.com/a/5IuH)
